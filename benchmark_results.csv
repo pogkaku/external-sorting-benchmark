@@ -1,0 +1,4 @@
+RAM_GB,VM_Type,Numbers_Sorted,Execution_Time_Seconds,Peak_Memory_MiB,Validation
+1,e2-micro,500000,1.04,14.83,Passed
+2,e2-small,500000,1.00,14.83,Passed
+4,e2-medium,500000,0.95,15.00,Passed
