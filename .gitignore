@@ -1,0 +1,14 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Benchmark temporary files
+sort_work/
+sorted_output.txt
+
+# Operating system files
+.DS_Store
